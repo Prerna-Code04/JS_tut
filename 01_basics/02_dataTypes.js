@@ -32,6 +32,24 @@ let stringValue= String(someVal)
 console.log(stringValue);
 console.log(typeof stringValue);
 
+//****************************Operations****************************** 
+let val= 12
+let negVal= -val //number hi hai ye
+console.log(negVal);
+console.log(typeof negVal) 
+
+console.log("1"+2);
+console.log("1"+2+2);
+console.log("1"+(2+2));
+console.log(1+2+"2");
+
+console.log(+true);
+console.log(+"");
+
+
+
+
+
 
 
 
