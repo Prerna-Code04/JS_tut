@@ -47,7 +47,8 @@ second is execution phase: all teh operations are done in this phase.
 
 whenever u want to see abt call stack how it works, go on inspect adn then source
 
-
+false and truht values
+![coparisng falsey values ](image-2.png)
 
 
 
