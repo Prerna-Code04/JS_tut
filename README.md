@@ -45,6 +45,10 @@ second is execution phase: all teh operations are done in this phase.
    after the work, this environment is deleted
 ![ vid 25, 12:54](image-1.png)
 
+whenever u want to see abt call stack how it works, go on inspect adn then source
+
+
+
 
 
 
