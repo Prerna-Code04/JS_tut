@@ -50,6 +50,10 @@ whenever u want to see abt call stack how it works, go on inspect adn then sourc
 false and truht values
 ![coparisng falsey values ](image-2.png)
 
+------------------------
+DOM: document object model
+window is a complex object, READ, do window.documnt or document coz its known, console.dir(document) tog et everything as in winodw
 
+everyhitng is a node in this tree like structure
 
-
+whenw e do documnet.links, we get html collection not array
